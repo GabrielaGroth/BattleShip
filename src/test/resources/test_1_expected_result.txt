@@ -1,0 +1,30 @@
+Placed Destroyer
+Placed Carrier
+Placed Battleship
+Placed Submarine
+Placed Cruiser
+Miss
+Hit
+Hit
+Hit
+You sunk my Submarine!
+Miss
+Hit
+Hit
+Hit
+Hit
+Hit
+You sunk my Carrier!
+Hit
+Hit
+Hit
+Hit
+You sunk my Battleship!
+Hit
+Hit
+You sunk my Destroyer!
+Hit
+Hit
+Hit
+You sunk my Cruiser!
+Game Over

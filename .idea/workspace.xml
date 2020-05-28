@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="383e97a9-2aea-4107-b442-2ece4834efa5" name="Default Changelist" comment="" />
+    <list default="true" id="383e97a9-2aea-4107-b442-2ece4834efa5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BattleShipTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/test_1_expected_result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/test_1_input_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BattleShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BattleShip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BattleShip.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BattleShip.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -28,6 +40,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1cXgr30BOkbyj4u76RCLoaClq6i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,31 +48,32 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2724595" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PlayTest">
+  <component name="RunManager" selected="JUnit.BattleShipTest.test1">
+    <configuration name="BattleShipTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BattleShip" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BattleShipTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PlayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BattleShip" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="PlayTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PlayTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BattleShip" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PlayTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BattleShipTest.test1" />
         <item itemvalue="JUnit.PlayTest" />
         <item itemvalue="JUnit.PlayTest.test4" />
         <item itemvalue="JUnit.PlayTest.test3" />
         <item itemvalue="JUnit.PlayTest.test2" />
-        <item itemvalue="JUnit.PlayTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -125,10 +139,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="369" y="128" key="#Project_Structure" timestamp="1590699613910">
+    <state x="369" y="128" key="#Project_Structure" timestamp="1590701992415">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="369" y="128" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1590699613910" />
+    <state x="369" y="128" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1590701992415" />
     <state x="585" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1590699036963">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -138,56 +152,45 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="388" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.877@0.23.1440.877" timestamp="1590689983894" />
-    <state width="1293" height="244" key="GridCell.Tab.0.bottom" timestamp="1590700599662">
+    <state width="1293" height="268" key="GridCell.Tab.0.bottom" timestamp="1590702539133">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590699158561" />
-    <state width="1293" height="244" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1590700599662" />
-    <state width="1293" height="244" key="GridCell.Tab.0.center" timestamp="1590700599660">
+    <state width="1293" height="268" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1590702539133" />
+    <state width="1293" height="268" key="GridCell.Tab.0.center" timestamp="1590702539132">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590699158559" />
-    <state width="1293" height="244" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1590700599660" />
-    <state width="1293" height="244" key="GridCell.Tab.0.left" timestamp="1590700599660">
+    <state width="1293" height="268" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1590702539132" />
+    <state width="1293" height="268" key="GridCell.Tab.0.left" timestamp="1590702539131">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590699158557" />
-    <state width="1293" height="244" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1590700599660" />
-    <state width="1293" height="244" key="GridCell.Tab.0.right" timestamp="1590700599661">
+    <state width="1293" height="268" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1590702539131" />
+    <state width="1293" height="268" key="GridCell.Tab.0.right" timestamp="1590702539133">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590699158560" />
-    <state width="1293" height="244" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1590700599661" />
-    <state width="1398" height="285" key="GridCell.Tab.1.bottom" timestamp="1590696808290">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1293" height="268" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1590702539133" />
+    <state width="1293" height="268" key="GridCell.Tab.1.bottom" timestamp="1590702538819">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="285" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590696808290" />
-    <state width="1293" height="285" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1590696329771" />
-    <state width="1398" height="285" key="GridCell.Tab.1.center" timestamp="1590696808289">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1293" height="268" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1590702538819" />
+    <state width="1293" height="268" key="GridCell.Tab.1.center" timestamp="1590702538818">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="285" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1590696808289" />
-    <state width="1293" height="285" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1590696329770" />
-    <state width="1398" height="285" key="GridCell.Tab.1.left" timestamp="1590696808287">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1293" height="268" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1590702538818" />
+    <state width="1293" height="268" key="GridCell.Tab.1.left" timestamp="1590702538817">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="285" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1590696808287" />
-    <state width="1293" height="285" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1590696329770" />
-    <state width="1398" height="285" key="GridCell.Tab.1.right" timestamp="1590696808289">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1293" height="268" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1590702538817" />
+    <state width="1293" height="268" key="GridCell.Tab.1.right" timestamp="1590702538818">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="285" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1590696808289" />
-    <state width="1293" height="285" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1590696329771" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Ship.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="1293" height="268" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1590702538818" />
   </component>
 </project>

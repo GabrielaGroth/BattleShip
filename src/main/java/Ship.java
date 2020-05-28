@@ -14,7 +14,7 @@ public class Ship {
         this.direction = direction;
         this.shipStartPosition = shipStartPosition;
         this.unhitPositions = getAllPositionsCoveredByBoat(type, direction, shipStartPosition);
-        this.hitPositions = new HashSet<BoardPosition>();
+        this.hitPositions = new HashSet<>();
     }
 
     public Set<BoardPosition> getUnhitPositions() {
